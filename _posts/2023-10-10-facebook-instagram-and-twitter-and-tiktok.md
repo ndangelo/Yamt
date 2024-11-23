@@ -1,0 +1,41 @@
+---
+id: 63233
+title: 'Facebook, Instagram and Twitter and Tiktok'
+date: '2023-10-10T18:32:26-04:00'
+author: admin
+layout: post
+guid: 'https://www.nuggetofjoy.com/?p=63233'
+permalink: /facebook-instagram-and-twitter-and-tiktok/
+footnotes:
+    - ''
+amazonS3_cache:
+    - 'a:12:{s:53:"//www.nuggetofjoy.com/wp-content/uploads/image-87.png";a:2:{s:2:"id";i:63234;s:11:"source_type";s:13:"media-library";}s:70:"//image-control-storage.s3.amazonaws.com/2023/10/10180708/image-87.png";a:2:{s:2:"id";i:63234;s:11:"source_type";s:13:"media-library";}s:53:"//www.nuggetofjoy.com/wp-content/uploads/image-88.png";a:2:{s:2:"id";i:63235;s:11:"source_type";s:13:"media-library";}s:70:"//image-control-storage.s3.amazonaws.com/2023/10/10180730/image-88.png";a:2:{s:2:"id";i:63235;s:11:"source_type";s:13:"media-library";}s:53:"//www.nuggetofjoy.com/wp-content/uploads/image-89.png";a:2:{s:2:"id";i:63236;s:11:"source_type";s:13:"media-library";}s:63:"//www.nuggetofjoy.com/wp-content/uploads/image-89-1024x1024.png";a:2:{s:2:"id";i:63236;s:11:"source_type";s:13:"media-library";}s:70:"//image-control-storage.s3.amazonaws.com/2023/10/10180746/image-89.png";a:2:{s:2:"id";i:63236;s:11:"source_type";s:13:"media-library";}s:80:"//image-control-storage.s3.amazonaws.com/2023/10/10180746/image-89-1024x1024.png";a:2:{s:2:"id";i:63236;s:11:"source_type";s:13:"media-library";}s:53:"//www.nuggetofjoy.com/wp-content/uploads/image-90.png";a:2:{s:2:"id";i:63237;s:11:"source_type";s:13:"media-library";}s:70:"//image-control-storage.s3.amazonaws.com/2023/10/10181246/image-90.png";a:2:{s:2:"id";i:63237;s:11:"source_type";s:13:"media-library";}s:53:"//www.nuggetofjoy.com/wp-content/uploads/image-91.png";a:2:{s:2:"id";i:63238;s:11:"source_type";s:13:"media-library";}s:70:"//image-control-storage.s3.amazonaws.com/2023/10/10181328/image-91.png";a:2:{s:2:"id";i:63238;s:11:"source_type";s:13:"media-library";}}'
+categories:
+    - Projects
+---
+
+<div class="wp-block-image"><figure class="aligncenter size-full">![](https://image-control-storage.s3.amazonaws.com/2023/10/10180708/image-87.png)</figure></div><div class="wp-block-image"><figure class="aligncenter size-full">![](https://image-control-storage.s3.amazonaws.com/2023/10/10180730/image-88.png)</figure></div><div class="wp-block-image"><figure class="aligncenter size-large is-resized">![](https://image-control-storage.s3.amazonaws.com/2023/10/10180746/image-89-1024x1024.png)</figure></div>- Before we embark on a full social media marketing campaign it is important that we experiment with creating posts using your brand.
+- Create three text based posts on “X” or twitter and two text and image based. Remember to keep them branded.
+
+- Please create five branded posts (use your logo, colors and info from your creative brief.) for Facebook and Instagram. They should be image-based. Give them branded messages and a call to action (people need to know what to do when they see your ad) for each social media platform.)
+- Create two video posts for (Your platform preference. Please make sure they are branded. Note: Utilize any tool you wish to format the video. You can use stock footage. Video you create with your phone etc.
+- Please create five branded posts for Tiktok. I will present an example of a tiktok ad.
+- Make sure the “look and feel” of your posts matches your style guides and make sure to include your logo in each post.
+- Keep the videos short, interesting, and branded. Do not worry to much about video quality. Used the online or applications we covered in the last class as well.
+- You can also use Canva and adobe express to create your video ads.
+- “Cross Post five of the posts you create for other platforms. Example: you can post an instagram account on your facebook page or X/twitter. These do not count toward the above tasks.
+- Besides the desktop applications mentioned above. **DO NOT LOGIN TO YOUR SOCIAL MEDIA ACCOUNTS IN ROSENKRANS!** PLEASE Use your phone and desktop applications for all your social media content.
+
+In the next class you will create a “walk through” video of your branded posts from your smart phones.
+
+Clicks, Likes, Follows and Retweets:
+
+## How Has Social Media Changed Marketing?
+
+### Stealth Ads?
+
+Marketing and Social Media.
+
+## Marketing Won the day
+
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized">![](https://image-control-storage.s3.amazonaws.com/2023/10/10181246/image-90.png)</figure></div><div class="wp-block-image"><figure class="aligncenter size-full is-resized">![](https://image-control-storage.s3.amazonaws.com/2023/10/10181328/image-91.png)</figure></div><figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/mQ95HsKGTu8?feature=oembed" title="forest whitaker facebook" width="500"></iframe></div></figure><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/mQ95HsKGTu8?feature=oembed" title="forest whitaker facebook" width="500"></iframe></div></figure><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/yjEX3ZY7ERo?feature=oembed" title="ticktok diana silvers collection" width="500"></iframe></div></figure><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Ky9RDZUuEM8?feature=oembed" title="snickers instagram satisfying content" width="500"></iframe></div></figure><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/dZZJpmZwAhw?feature=oembed" title="moo card instagram" width="500"></iframe></div></figure><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="281" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/nM_28o0l2wQ?feature=oembed" title="petsmart instagram" width="500"></iframe></div></figure><figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="375" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/7xtcB_K-IMk?feature=oembed" title="facebook class page" width="500"></iframe></div></figure>
