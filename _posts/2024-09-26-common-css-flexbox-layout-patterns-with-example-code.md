@@ -16,7 +16,7 @@ Source: <https://tobiasahlin.com/blog/common-flexbox-patterns>
 
 In theory, using flexbox (Flexible Box Module) to build complex layouts is pretty straightforward. Still, they have often found themselves adding `display: flex` to an element and spending an eternity trying to figure out how to make anything behave as expected. If you’re anything like them, here’s a list of 10 example flexbox layouts with CSS that you can copy and paste to get started with your layouts. They will walk through these basic layout patterns (click to jump to an example).
 
-<div class="wp-block-image"><figure class="aligncenter size-large">![Flex Layout](https://image-control-storage.s3.amazonaws.com/2024/09/26125210/image-172-1024x375.png)</figure></div>Every example assumes that your HTML contains an element with a class of `container` , which then contains several children that all have a class of `item` (the number of children varies per example):
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://image-control-storage.s3.amazonaws.com/2024/09/26125210/image-172-1024x375.png"></figure></div>Every example assumes that your HTML contains an element with a class of `container` , which then contains several children that all have a class of `item` (the number of children varies per example):
 
 ```markup
 <div class="container">
