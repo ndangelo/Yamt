@@ -15,7 +15,9 @@ categories:
 
 by [Grace Fussell](https://tutsplus.com/authors/grace-fussell)
 
-<figure class="wp-block-image">![Final product image](https://image-control-storage.s3.amazonaws.com/2020/02/19111009/Master-2-2.jpg)<figcaption>What You’ll Be Creating</figcaption></figure>[Download Free Assets Here](https://image-control-storage.s3.amazonaws.com/wedding_invite_tutorial.zip)
+![image info](./pictures/image.png)
+
+<figure class="wp-block-image">![image](https://image-control-storage.s3.amazonaws.com/2020/02/19111009/Master-2-2.jpg)<figcaption>What You’ll Be Creating</figcaption></figure>[Download Free Assets Here](https://image-control-storage.s3.amazonaws.com/wedding_invite_tutorial.zip)
 
 Fall is such a romantic and atmospheric time of year to get married. These autumnal invitations pay tribute to the earthy colors and falling leaves that lend the season its cosy mood.
 
